@@ -1,2 +1,6 @@
-# South-Am-Obsidian
-Visualization of South American obsidian geochemistry
+# South American Obsidian Geochemistry
+Geochemical visualization of South American archaeological obsidian
+
+X-Ray Fluoresence and NAA (MURR) datasets
+
+Source chemistry and published artifact chemistry
